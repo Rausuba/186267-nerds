@@ -1,9 +1,9 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Raushan Kalieva](https://up.htmlacademy.ru/htmlcss/15/user/186267).
-* Наставник: `Неизвестно`.
+* Наставник: [Данил Ефремов](https://up.htmlacademy.ru/htmlcss/15/user/67675)
 
----
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
