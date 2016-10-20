@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Raushan Kalieva](https://up.htmlacademy.ru/htmlcss/15/user/186267).
-* Наставник: [Данил Ефремов](https://github.com/WarEnek email: warenek@gmail.com)
+* Наставник: [Данил Ефремов](https://up.htmlacademy.ru/htmlcss/15/user/67675)
 
 
 
